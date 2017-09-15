@@ -19,8 +19,45 @@
 - [Prequisites](#prequisites)
 - [Algorithm Complexity / Big O / Asymptomatic Analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
-- [Data Structure Algorithms](#data-structure-algorithms)
+  - [Arrays](#arrays)
+  - [Linked Lists](#linked-lists)
+  - [Dynamic Arrays](#dynamic-arrays)
+  - [Hash Set](#hash-set)
+  - [Stack](#stack)
+  - [Queue](#queue)
+  - [Hash table](#hash-table)
+- [Trees](#trees)
+  - [Trees - Notes & Background](#trees---notes--background)
+  - [Binary search trees: BSTs](#binary-search-trees-bsts)
+  - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+  - balanced search trees (general concept, not details)
+  - traversals: preorder, inorder, postorder, BFS, DFS
 - [Bit Manipulation](#bit-manipulation)
+  - [Bitwise Operations](#bitwise-operations)
+- [Data Structure Algorithms](#data-structure-algorithms)
+  - [Sorting](#sorting)
+    - selection
+    - insertion
+    - heapsort
+    - quicksort
+    - merge sort
+- [Graphs](#graphs)
+  - directed
+  - undirected
+  - adjacency matrix
+  - adjacency list
+  - traversals: BFS, DFS
+- [Servers and Networking](#servers-and-networking)
+- [Databases](#databases)
+  - [SQL Databases](#sql-databases)
+  - [NoSQL Databases](#nosql-databases)
+- [Caching](#caching)
+- [General Web Development](#general-web-development)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Javascript](#javascript)
+  - [MVC Architecture](#mvc-architecture)
+
 
 #Prerequisites:
 - Understand C
@@ -82,7 +119,7 @@ Optional:
 - Get a sense of the basic operations that hardware exposes.
   - This awesome video about the inner workings of the [original Game Boy covers](https://www.youtube.com/watch?v=RZUDEaLa5Nw) just about all you need to know.
 
-Databases:
+#Databases:
 - SQL Databases:
   - Learn how to design a SQL database schema; it comes up in interviews often.
   - Read about ACID, the CAP theorem, and BASE
@@ -91,7 +128,7 @@ Databases:
   - Learn the basics of NoSQL databases.
 - NoSQL Databases
 
-Caching:
+#Caching:
 - Read about caches and cache efficiency.
 - Know what a cache miss is.
 - Know that reading from registers is lightning-fast
@@ -102,7 +139,7 @@ Caching:
   - Write one that gets and sets in worst-case O(1) time.
   - This is a weirdly common interview problem.
 
-Networking:
+#Networking:
 - [Learn what happens when you type a URL into your browser and press enter](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/comment-page-3/)
 - DNS lookups
 - Request-response cycle
@@ -110,11 +147,15 @@ Networking:
 - TCP vs UDP
 - Cookies
 
-General Web Development:
+#General Web Development:
 - Learn the standard ways to speed up a slow website:
   - Adding database indices to optimize common queries
   - Better caching
   - Loading front-end assets from a CDN
   - Cleaning up zombie event listeners
+- HTML
+- CSS
+- Javascript
+
 
 
