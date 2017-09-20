@@ -26,12 +26,18 @@
   - [Stack](#stack)
   - [Queue](#queue)
   - [Hash table](#hash-table)
-- [Trees](#trees)
-  - [Trees - Notes & Background](#trees---notes--background)
-  - [Binary search trees: BSTs](#binary-search-trees-bsts)
-  - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-  - balanced search trees (general concept, not details)
-  - traversals: preorder, inorder, postorder, BFS, DFS
+  - [Graphs](#graphs)
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - traversals: BFS, DFS
+  - [Trees](#trees)
+    - [Trees - Notes & Background](#trees---notes--background)
+    - [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - balanced search trees (general concept, not details)
+    - traversals: preorder, inorder, postorder, BFS, DFS
 - [Bit Manipulation](#bit-manipulation)
   - [Bitwise Operations](#bitwise-operations)
 - [Data Structure Algorithms](#data-structure-algorithms)
@@ -41,12 +47,6 @@
     - heapsort
     - quicksort
     - merge sort
-- [Graphs](#graphs)
-  - directed
-  - undirected
-  - adjacency matrix
-  - adjacency list
-  - traversals: BFS, DFS
 - [Servers and Networking](#servers-and-networking)
 - [Databases](#databases)
   - [SQL Databases](#sql-databases)
@@ -156,6 +156,42 @@ Optional:
 - HTML
 - CSS
 - Javascript
+
+
+
+DANIEL BOROWSKI:
+
+
+My list of stuff to study: by daniel borowski
+
+(I put this together recently, so read this first) https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f
+
+CODING CHALLENGES: code as many as you can
+Do a lot of medium/hard leetcode challenges (tree, dynamic programing, graph, etc.)
+http://www.hiredintech.com/algorithm-design/learn-algorithms/
+https://www.careercup.com/page?pid=google-interview-questions
+https://www.glassdoor.com/Interview/Google-Software-Development-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,36.htm
+https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/
+
+STUDY AND READING
+elements of programing book
+algorithm design manual book
+Cracking the coding interview book
+Study some advanced data structures (trees and hash tables especially)
+http://courses.csail.mit.edu/6.851/spring14/
+http://web.stanford.edu/class/cs166/
+red black tree
+Advanced collision algorithms for hash tables
+- read OS papers on concurrent computing (optional, depends on job)
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+THESE PROBLEMS ARE VERY SIMILAR TO THE QUESTIONS I WAS ASKED AT GOOGLE
+https://stackoverflow.com/questions/9507564/removing-duplicate-subtrees-from-binary-tree
+https://stackoverflow.com/questions/15491197/finding-the-longest-path-in-a-binary-tree
+http://gregtrowbridge.com/a-basic-pathfinding-algorithm/
+https://remysharp.com/2010/07/21/throttling-function-calls (for javascript)
+https://stackoverflow.com/questions/15104857/find-missing-range-from-array-of-ranges
+http://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/
 
 
 
